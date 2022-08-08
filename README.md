@@ -15,3 +15,6 @@ REACT_APP_GEOCODE_API_KEY="YOUR_GEOCODE_API_KEY"
 npm install
 npm start
 ```
+
+
+<img src="https://github.com/hyc0812/deploy-marketplace-house/blob/master/screenshot1/ScreenShot01.png" width="600">
