@@ -5,7 +5,7 @@ The app was deployed on Vercel platform.
 Visit [Demo](https://deploy-marketplace-house.vercel.app)
 
 
-Need to create a .env file in root directory
+Need to create a .env file in root directory when run locally.
 
 ```js
 REACT_APP_GEOCODE_API_KEY="YOUR_GEOCODE_API_KEY"
